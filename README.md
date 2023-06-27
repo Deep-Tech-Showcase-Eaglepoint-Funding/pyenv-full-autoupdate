@@ -1,7 +1,4 @@
 <div align="center">
-    <a href="https://github.com/Deep-Tech-Showcase-Eaglepoint-Funding/pyenv-full-autoupdate">
-        <img src="./doc/images/ohmyzsh-full-update.svg" alt="OhMyZsh Full-autoupdate" width="400">
-    </a>
     <h1>pyenv Full-autoupdate</h1>
     <h4>Automatic update of pyenv plugins</h4>
 </div>
