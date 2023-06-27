@@ -7,9 +7,7 @@
 
 ## What is it
 
-As you probably know, when you update Oh My Zsh, your plugins and themes installed in the `~/.oh-my-zsh/custom` folder are not updated.  
-
-This plugin solves this problem and automatically updates your plugins and themes.
+This plugin automatically updates your pyenv plugins.
 
 ## Installing
 
