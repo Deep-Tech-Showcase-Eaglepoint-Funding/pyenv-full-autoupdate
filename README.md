@@ -14,7 +14,7 @@ This plugin automatically updates your pyenv plugins.
 1. Clone this repository into `$ZSH_CUSTOM/plugins` (`~/.oh-my-zsh/custom/plugins`)
 
     ```bash
-    git clone https://github.com/Deep-Tech-Showcase-Eaglepoint-Funding/pyenv-full-autoupdate.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/ohmyzsh-full-autoupdate
+    git clone https://github.com/Deep-Tech-Showcase-Eaglepoint-Funding/pyenv-full-autoupdate.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/pyenv-full-autoupdate
     ```
 
 2. Add the plugin to the Oh My Zsh plugin list in the `~/.zshrc` file:
